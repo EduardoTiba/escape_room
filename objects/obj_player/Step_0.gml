@@ -1,3 +1,4 @@
+#region Movimento
 //pegando os inputs
 var _right	= keyboard_check(ord("D"));
 var _left	= keyboard_check(ord("A"));
@@ -10,8 +11,15 @@ hsp = (_right - _left) * vel;
 vsp = (_down - _up) * vel;
 
 //código de movimentação e colisão
-move_and_collide(hsp, vsp, all);
+move_and_collide(hsp, vsp, colisores);
 
 //aumentando a velociidade do player se _corre for verdadeiro
 if (_corre == true) { vel = 6 }
 else { vel = 2 }
+
+#endregion
+
+if (place_meeting(x, y, obj_hide)) { global.perde_player = false }
+else { global.perde_player = true }
+
+show_debug_message(global.perde_player);
