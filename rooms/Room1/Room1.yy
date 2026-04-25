@@ -13,8 +13,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"escape_room2",
-    "path":"escape_room2.yyp",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
