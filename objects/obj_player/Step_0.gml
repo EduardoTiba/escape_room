@@ -19,7 +19,16 @@ else { vel = 2 }
 
 #endregion
 
+//impossibilitando do player perder se estiver em colisão com o hide point
 if (place_meeting(x, y, obj_hide)) { global.perde_player = false }
 else { global.perde_player = true }
 
-show_debug_message(global.perde_player);
+//sinalizando que o inimigo está vindo
+if (global.inimigo_spawn == true)
+{
+	aviso_spawn = true;
+}
+else
+{
+	aviso_spawn = false;
+}
