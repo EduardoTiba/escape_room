@@ -1,0 +1,2 @@
+25/04/26
+-Achar outra forma de sinalizar que o inimigo vai ser gerado
