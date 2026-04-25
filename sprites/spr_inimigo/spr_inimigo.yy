@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"spr_inimigo",
   "bboxMode":0,
-  "bbox_bottom":31,
+  "bbox_bottom":107,
   "bbox_left":0,
-  "bbox_right":31,
+  "bbox_right":107,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":32,
+  "height":108,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"105425e0-b913-4baa-80d9-ab84f224332e","blendMode":0,"displayName":"default","isLocked":false,"name":"105425e0-b913-4baa-80d9-ab84f224332e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":32,
+  "width":108,
 }
