@@ -1,7 +1,6 @@
-if (distance_to_object(obj_player) <= distancia) { voar = true }
-
+//se ele puder sair voando, então ele pode ser destruído e se move de 6 em 6 pixels
 if (voar == true) 
 {
-	x -= 6;
+	x -= 4;
 	destruir = true;
 }

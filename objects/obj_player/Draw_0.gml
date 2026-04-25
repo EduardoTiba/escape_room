@@ -27,5 +27,8 @@ image_alpha += alpha_texto;
 //escrevendo o texto
 draw_text_colour(x, y-20, "!", _cor, _cor, _cor, _cor, alpha_texto);
 
+//resetando os draw_set
+draw_set_halign(-1);
+draw_set_valign(-1);
 
 #endregion
