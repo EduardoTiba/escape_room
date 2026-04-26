@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_ativador",
-    "path":"sprites/spr_ativador/spr_ativador.yy",
+    "name":"spr_ativador1",
+    "path":"sprites/spr_ativador1/spr_ativador1.yy",
   },
   "spriteMaskId":null,
   "visible":false,

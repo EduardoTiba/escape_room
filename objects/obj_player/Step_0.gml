@@ -14,8 +14,16 @@ vsp = (_down - _up) * vel;
 move_and_collide(hsp, vsp, colisores);
 
 //aumentando a velociidade do player se _corre for verdadeiro
-if (_corre == true) { vel = 5.5 }
-else { vel = 2 }
+if (_corre == true)
+{
+	vel = 2.5; 
+	anim_vel = 10;
+}
+else 
+{
+	vel = 1 
+	anim_vel = 7;
+}
 
 #endregion
 
@@ -41,7 +49,6 @@ if (hsp == 0)
 #endregion
 
 #region Animações Verticais
-
 if (vsp < 0) //Para cima
 {
 	sprite_index = animacoes[2];
@@ -61,6 +68,7 @@ if (vsp == 0)
 }
 
 #endregion
+
 
 //impossibilitando do player perder se estiver em colisão com o hide point
 if (place_meeting(x, y, obj_hide)) { global.perde_player = false }
