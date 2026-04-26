@@ -12,20 +12,8 @@ var _cor = make_colour_rgb(100, 20, 80);
 draw_set_halign(1);
 draw_set_valign(1);
 
-//alpha do texto
-if (alpha_texto >= 1)
-{
-	alpha_texto -= 0.05;
-}
-else
-if (alpha_texto <= 0)
-{
-	alpha_texto -= 0.05;
-}
-image_alpha += alpha_texto;
-
 //escrevendo o texto
-draw_text_colour(x, y-20, "!", _cor, _cor, _cor, _cor, alpha_texto);
+draw_text_colour(x, y-20, "!", _cor, _cor, _cor, _cor, 1);
 
 //resetando os draw_set
 draw_set_halign(-1);

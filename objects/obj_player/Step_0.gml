@@ -14,7 +14,7 @@ vsp = (_down - _up) * vel;
 move_and_collide(hsp, vsp, colisores);
 
 //aumentando a velociidade do player se _corre for verdadeiro
-if (_corre == true) { vel = 6 }
+if (_corre == true) { vel = 5.5 }
 else { vel = 2 }
 
 #endregion
@@ -24,11 +24,5 @@ if (place_meeting(x, y, obj_hide)) { global.perde_player = false }
 else { global.perde_player = true }
 
 //sinalizando que o inimigo está vindo
-if (global.inimigo_spawn == true)
-{
-	aviso_spawn = true;
-}
-else
-{
-	aviso_spawn = false;
-}
+if (global.inimigo_spawn == true) { aviso_spawn = true }
+else{ aviso_spawn = false }
