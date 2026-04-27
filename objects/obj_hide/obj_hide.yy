@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_hide",
-    "path":"sprites/spr_hide/spr_hide.yy",
+    "name":"spr_hide2",
+    "path":"sprites/spr_hide2/spr_hide2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
