@@ -54,6 +54,7 @@ if (vsp == 0)
 	else if (sprite_index == animacoes[3]) { sprite_index = estatico[3] }
 }
 
+
 #endregion
 
 
