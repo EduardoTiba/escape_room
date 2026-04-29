@@ -1,10 +1,9 @@
 #region Movimento
 //pegando os inputs
-var _right	= keyboard_check(ord("D"));
-var _left	= keyboard_check(ord("A"));
-var _down	= keyboard_check(ord("S"));
-var _up		= keyboard_check(ord("W"));
-var _corre	= keyboard_check(vk_anykey) and keyboard_check(vk_shift);
+var _right	= keyboard_check(ord("D")) or keyboard_check(vk_right);
+var _left	= keyboard_check(ord("A")) or keyboard_check(vk_left);
+var _down	= keyboard_check(ord("S")) or keyboard_check(vk_down);
+var _up		= keyboard_check(ord("W")) or keyboard_check(vk_up);
 
 //valores da velocidade
 hsp = (_right - _left) * vel;
@@ -12,18 +11,6 @@ vsp = (_down - _up) * vel;
 
 //código de movimentação e colisão
 move_and_collide(hsp, vsp, colisores);
-
-//aumentando a velociidade do player se _corre for verdadeiro
-if (_corre == true)
-{
-	vel = 4.5; 
-	anim_vel = 10;
-}
-else 
-{
-	vel = 2; 
-	anim_vel = 7;
-}
 
 #endregion
 
