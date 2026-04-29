@@ -1,2 +1,8 @@
 25/04/26
 -Vá no objeto player e continue a fazer o efeito de piscar da exclamação acima dele
+
+28/04/26
+-Fazer as sprites das chaves;
+-Programar pra cada uma se destruir ao toca no player;
+-Se coletar uma, então se torna true que foi coletada;
+-Somente se as três chaves forem pegas será possível abrir a porta final;
