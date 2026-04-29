@@ -56,6 +56,7 @@
     {"id":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},},
     {"id":{"name":"spr_chave1","path":"sprites/spr_chave1/spr_chave1.yy",},},
     {"id":{"name":"spr_chave2","path":"sprites/spr_chave2/spr_chave2.yy",},},
+    {"id":{"name":"spr_chave3","path":"sprites/spr_chave3/spr_chave3.yy",},},
     {"id":{"name":"spr_colisor","path":"sprites/spr_colisor/spr_colisor.yy",},},
     {"id":{"name":"spr_guy_down","path":"sprites/spr_guy_down/spr_guy_down.yy",},},
     {"id":{"name":"spr_guy_left_static","path":"sprites/spr_guy_left_static/spr_guy_left_static.yy",},},
