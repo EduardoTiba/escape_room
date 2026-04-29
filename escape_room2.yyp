@@ -40,6 +40,7 @@
   "resources":[
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"obj_ativador","path":"objects/obj_ativador/obj_ativador.yy",},},
+    {"id":{"name":"obj_colisor","path":"objects/obj_colisor/obj_colisor.yy",},},
     {"id":{"name":"obj_espinho_esquerda","path":"objects/obj_espinho_esquerda/obj_espinho_esquerda.yy",},},
     {"id":{"name":"obj_hide","path":"objects/obj_hide/obj_hide.yy",},},
     {"id":{"name":"obj_inimigo","path":"objects/obj_inimigo/obj_inimigo.yy",},},
@@ -53,6 +54,7 @@
     {"id":{"name":"sc_inicia","path":"scripts/sc_inicia/sc_inicia.yy",},},
     {"id":{"name":"spr_ativador1","path":"sprites/spr_ativador1/spr_ativador1.yy",},},
     {"id":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},},
+    {"id":{"name":"spr_colisor","path":"sprites/spr_colisor/spr_colisor.yy",},},
     {"id":{"name":"spr_guy_down","path":"sprites/spr_guy_down/spr_guy_down.yy",},},
     {"id":{"name":"spr_guy_left_static","path":"sprites/spr_guy_left_static/spr_guy_left_static.yy",},},
     {"id":{"name":"spr_guy_left","path":"sprites/spr_guy_left/spr_guy_left.yy",},},
