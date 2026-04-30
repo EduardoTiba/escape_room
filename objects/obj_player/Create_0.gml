@@ -14,5 +14,8 @@ estatico	= [spr_guy_left_static, spr_guy_right_static, spr_guy_up_static, spr_gu
 //Agrupando objetos que devem ter colisão com o player
 colisores = [obj_inimigo, obj_parede, obj_colisor];
 
+//Array que armazena os objetos que são as chaves
+chaves = [obj_chave1, obj_chave2, obj_chave3];
+
 //O monstro ainda não vai spawnar
 aviso_spawn = false;

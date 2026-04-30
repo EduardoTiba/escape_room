@@ -40,6 +40,9 @@
   "resources":[
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"obj_ativador","path":"objects/obj_ativador/obj_ativador.yy",},},
+    {"id":{"name":"obj_chave1","path":"objects/obj_chave1/obj_chave1.yy",},},
+    {"id":{"name":"obj_chave2","path":"objects/obj_chave2/obj_chave2.yy",},},
+    {"id":{"name":"obj_chave3","path":"objects/obj_chave3/obj_chave3.yy",},},
     {"id":{"name":"obj_colisor","path":"objects/obj_colisor/obj_colisor.yy",},},
     {"id":{"name":"obj_espinho_esquerda","path":"objects/obj_espinho_esquerda/obj_espinho_esquerda.yy",},},
     {"id":{"name":"obj_hide","path":"objects/obj_hide/obj_hide.yy",},},
