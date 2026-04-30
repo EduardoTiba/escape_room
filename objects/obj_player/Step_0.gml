@@ -35,7 +35,7 @@ if (hsp == 0)
 
 #endregion
 
-#region Animações Verticais
+#region Animações verticais
 
 if (vsp < 0) //Para cima
 {
@@ -56,7 +56,6 @@ if (vsp == 0)
 }
 
 #endregion
-
 
 
 //impossibilitando do player perder se estiver em colisão com o hide point
