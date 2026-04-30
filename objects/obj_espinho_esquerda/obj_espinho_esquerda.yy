@@ -11,8 +11,8 @@
   "name":"obj_espinho_esquerda",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Armadilhas",
+    "path":"folders/Objects/Armadilhas.yy",
   },
   "parentObjectId":null,
   "persistent":false,

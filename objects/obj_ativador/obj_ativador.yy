@@ -6,8 +6,8 @@
   "name":"obj_ativador",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Armadilhas",
+    "path":"folders/Objects/Armadilhas.yy",
   },
   "parentObjectId":null,
   "persistent":false,

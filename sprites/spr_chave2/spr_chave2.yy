@@ -32,8 +32,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Sprites_chaves",
+    "path":"folders/Sprites/Sprites_chaves.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

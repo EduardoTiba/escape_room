@@ -10,8 +10,8 @@
   "name":"obj_chave3",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"obj_chaves",
+    "path":"folders/Objects/obj_chaves.yy",
   },
   "parentObjectId":null,
   "persistent":false,

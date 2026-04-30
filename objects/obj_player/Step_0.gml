@@ -36,6 +36,7 @@ if (hsp == 0)
 #endregion
 
 #region Animações Verticais
+
 if (vsp < 0) //Para cima
 {
 	sprite_index = animacoes[2];
@@ -54,8 +55,8 @@ if (vsp == 0)
 	else if (sprite_index == animacoes[3]) { sprite_index = estatico[3] }
 }
 
-
 #endregion
+
 
 
 //impossibilitando do player perder se estiver em colisão com o hide point
