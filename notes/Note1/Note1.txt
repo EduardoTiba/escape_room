@@ -1,3 +1,5 @@
+O que fazer para os próximos dias
+
 25/04/26
 -Vá no objeto player e continue a fazer o efeito de piscar da exclamação acima dele
 
@@ -6,3 +8,8 @@
 -Programar pra cada uma se destruir ao toca no player;
 -Se coletar uma, então se torna true que foi coletada;
 -Somente se as três chaves forem pegas será possível abrir a porta final;
+
+
+29/04/26
+-Programar espinho que vai pra direita;
+-Fazer os blocos que ao tocar na parede, eles fazem seu movimento oposto;
