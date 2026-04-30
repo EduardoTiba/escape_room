@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_lanca",
-    "path":"sprites/spr_lanca/spr_lanca.yy",
+    "name":"spr_espinho",
+    "path":"sprites/spr_espinho/spr_espinho.yy",
   },
   "spriteMaskId":null,
   "visible":true,
