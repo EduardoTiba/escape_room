@@ -1,0 +1,2 @@
+destruir = false;
+voar	 = false;

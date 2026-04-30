@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_ativador",
+  "%Name":"obj_ativador_esquerda",
   "eventList":[],
   "managed":true,
-  "name":"obj_ativador",
+  "name":"obj_ativador_esquerda",
   "overriddenProperties":[],
   "parent":{
     "name":"Armadilhas",
