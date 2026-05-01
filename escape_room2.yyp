@@ -55,7 +55,6 @@
     {"id":{"name":"obj_espinho_esquerda","path":"objects/obj_espinho_esquerda/obj_espinho_esquerda.yy",},},
     {"id":{"name":"obj_hide","path":"objects/obj_hide/obj_hide.yy",},},
     {"id":{"name":"obj_inimigo","path":"objects/obj_inimigo/obj_inimigo.yy",},},
-    {"id":{"name":"obj_level_mod","path":"objects/obj_level_mod/obj_level_mod.yy",},},
     {"id":{"name":"obj_limite","path":"objects/obj_limite/obj_limite.yy",},},
     {"id":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},

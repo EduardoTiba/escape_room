@@ -14,3 +14,9 @@ image_yscale += 0.01;
 if (image_alpha <= 0) { instance_destroy() }
 
 }
+
+
+//Função após o inimigo colidir com o player
+function perdeu(){
+	alarm[0] = 50;
+}

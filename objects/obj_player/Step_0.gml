@@ -1,4 +1,8 @@
-if (global.perdeu == true) { exit }
+if (global.perdeu == true) //Fazendo o player ir sumindo após perder e cancelar seu movimento
+{
+	vel = 0; 
+	image_alpha = lerp(image_alpha, 0, 0.1);
+}
 #region Movimento
 //pegando os inputs
 var _right	= keyboard_check(ord("D")) or keyboard_check(vk_right);
@@ -6,7 +10,7 @@ var _left	= keyboard_check(ord("A")) or keyboard_check(vk_left);
 var _down	= keyboard_check(ord("S")) or keyboard_check(vk_down);
 var _up		= keyboard_check(ord("W")) or keyboard_check(vk_up);
 var _corre	= keyboard_check(vk_anykey) and (keyboard_check(vk_shift));
-
+if keyboard_check(vk_space) room_restart();
 //valores da velocidade
 hsp = (_right - _left) * vel;
 vsp = (_down - _up) * vel;
