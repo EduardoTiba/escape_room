@@ -1,0 +1,1 @@
+global.perdeu = true;

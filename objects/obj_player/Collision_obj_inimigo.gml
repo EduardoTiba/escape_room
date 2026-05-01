@@ -1,3 +1,4 @@
 if (global.perde_player == false) { exit }
 
-show_message("morri!");
+//player perdeu
+global.perdeu = true;

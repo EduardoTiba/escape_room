@@ -1,3 +1,4 @@
+if (global.perdeu == true) { exit }
 #region Movimento
 //pegando os inputs
 var _right	= keyboard_check(ord("D")) or keyboard_check(vk_right);
@@ -15,7 +16,6 @@ if (_corre == true) { vel = 2 }
 else { vel = 1 }
 
 #endregion
-
 
 #region Animações horizontais
 if (hsp < 0) //Esquerda
@@ -59,7 +59,6 @@ if (vsp == 0)
 }
 
 #endregion
-
 
 //impossibilitando do player perder se estiver em colisão com o hide point
 if (place_meeting(x, y, obj_hide)) { global.perde_player = false }

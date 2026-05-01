@@ -8,3 +8,6 @@ global.inimigo_spawn = false;
 global.chave1 = false;
 global.chave2 = false;
 global.chave3 = false;
+
+//variável que checa se o player morrer
+global.perdeu = false;
