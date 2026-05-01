@@ -10,7 +10,7 @@ var _left	= keyboard_check(ord("A")) or keyboard_check(vk_left);
 var _down	= keyboard_check(ord("S")) or keyboard_check(vk_down);
 var _up		= keyboard_check(ord("W")) or keyboard_check(vk_up);
 var _corre	= keyboard_check(vk_anykey) and (keyboard_check(vk_shift));
-if keyboard_check(vk_space) room_restart();
+
 //valores da velocidade
 hsp = (_right - _left) * vel;
 vsp = (_down - _up) * vel;

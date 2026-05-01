@@ -13,3 +13,5 @@ O que fazer para os próximos dias
 29/04/26
 -Programar espinho que vai pra direita;
 -Fazer os blocos que ao tocar na parede, eles fazem seu movimento oposto;
+
+01/05/26
