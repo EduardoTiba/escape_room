@@ -1,17 +1,17 @@
 {
   "$GMRoom":"v1",
-  "%Name":"rm_partida",
+  "%Name":"rm_partida01",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_3C3B6925","path":"rooms/rm_partida/rm_partida.yy",},
-    {"name":"inst_72B7F336","path":"rooms/rm_partida/rm_partida.yy",},
-    {"name":"inst_66127CC9","path":"rooms/rm_partida/rm_partida.yy",},
-    {"name":"inst_5779ADC6","path":"rooms/rm_partida/rm_partida.yy",},
-    {"name":"inst_54732335","path":"rooms/rm_partida/rm_partida.yy",},
-    {"name":"inst_298E96DB","path":"rooms/rm_partida/rm_partida.yy",},
+    {"name":"inst_3C3B6925","path":"rooms/rm_partida01/rm_partida01.yy",},
+    {"name":"inst_72B7F336","path":"rooms/rm_partida01/rm_partida01.yy",},
+    {"name":"inst_66127CC9","path":"rooms/rm_partida01/rm_partida01.yy",},
+    {"name":"inst_5779ADC6","path":"rooms/rm_partida01/rm_partida01.yy",},
+    {"name":"inst_54732335","path":"rooms/rm_partida01/rm_partida01.yy",},
+    {"name":"inst_298E96DB","path":"rooms/rm_partida01/rm_partida01.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -36,7 +36,7 @@
       ],"layers":[],"name":"Player","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":800,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],
-  "name":"rm_partida",
+  "name":"rm_partida01",
   "parent":{
     "name":"Rooms",
     "path":"folders/Rooms.yy",
