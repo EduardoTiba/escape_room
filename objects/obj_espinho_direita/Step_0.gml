@@ -1,5 +1,5 @@
 if (voar == true)
 {
-	x += 4;
+	x += vel;
 	destruir = true;
 }

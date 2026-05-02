@@ -1,6 +1,6 @@
 //se ele puder sair voando, então ele pode ser destruído e se move de 6 em 6 pixels
 if (voar == true) 
 {
-	x -= 4;
+	x -= vel;
 	destruir = true;
 }

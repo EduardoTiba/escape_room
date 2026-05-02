@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_ativador_direita",
+  "%Name":"obj_parede_fundo",
   "eventList":[],
   "managed":true,
-  "name":"obj_ativador_direita",
+  "name":"obj_parede_fundo",
   "overriddenProperties":[],
   "parent":{
-    "name":"Armadilhas",
-    "path":"folders/Objects/Armadilhas.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_hide2",
-    "path":"sprites/spr_hide2/spr_hide2.yy",
+    "name":"spr_parede_fundo",
+    "path":"sprites/spr_parede_fundo/spr_parede_fundo.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
