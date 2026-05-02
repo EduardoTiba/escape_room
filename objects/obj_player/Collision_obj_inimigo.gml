@@ -6,5 +6,8 @@ global.chave1 = false;
 global.chave2 = false;
 global.chave3 = false;
 
+//sai da mensagem
+global.inimigo_spawn = false;
+
 //e manda o jogador para a room que instrui ele sobre o bicho
 room_goto(rm_instrucoes_inimigo);

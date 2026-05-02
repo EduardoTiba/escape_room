@@ -25,4 +25,7 @@ function perdeu(){
 	
 	//Sinalizando que o jogador perdeu
 	global.perdeu = true;
+	
+	//não precisa mais ter a mensagem de que o inimigo está vindo
+	global.inimigo_spawn = false
 }

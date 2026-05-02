@@ -1,8 +1,6 @@
-///@description Indo para a tela de seleção de levels
-
-//ainda não vai pra essa tela porque agora eu to cansado e 
-//são 21:15 da noite e eu preciso descansar a vista, mas eu faço
-//isso amanhã
-
-//no momento vou só para a room teste
+///@description Indo ao destino configurado
 room_goto(destino);
+
+//se a room for da instrução sobre o inimigo e clicar nesse botão
+//então deve tornar false que o player perdeu
+if (room == rm_instrucoes_inimigo) { global.perdeu = false }

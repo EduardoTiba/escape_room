@@ -1,0 +1,1 @@
+//objeto que vai evitar que o jogador fique preso nas paredes

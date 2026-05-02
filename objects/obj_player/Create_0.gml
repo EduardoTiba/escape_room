@@ -12,7 +12,7 @@ animacoes	= [spr_guy_left, spr_guy_right, spr_guy_up, spr_guy_down];
 estatico	= [spr_guy_left_static, spr_guy_right_static, spr_guy_up_static, spr_guy_static];
 
 //Agrupando objetos que devem ter colisão com o player
-colisores = [obj_inimigo, obj_parede, obj_colisor, obj_parede_fundo];
+colisores = [obj_inimigo, obj_parede, obj_parede_fundo, obj_porta, obj_salvador, obj_colisor_porta];
 
 //agrupando as armadilhas
 armadilhas = [obj_bloco_mov_hor, obj_bloco_mov_ver, obj_espinho_direita, obj_espinho_esquerda];

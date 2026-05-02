@@ -61,16 +61,27 @@ if (vsp == 0)
 	if (sprite_index == animacoes[2]) { sprite_index = estatico[2] }
 	else if (sprite_index == animacoes[3]) { sprite_index = estatico[3] }
 }
-
 #endregion
 
 //impossibilitando do player perder se estiver em colisão com o hide point
 if (place_meeting(x, y, obj_hide)) { global.perde_player = false }
 else { global.perde_player = true }
 
+//perdendo ao colidir com os inimigos
+if (place_meeting(x, y, armadilhas)) { perdeu() }
+
+//destruindo a porta se as tres chaves forem coletadas
+if (global.chave1 == true and global.chave2 == true and global.chave3 == true)
+{
+	if (place_meeting(x, y, obj_colisor_porta)) 
+	{
+		//destruindo o colisor
+		instance_destroy(obj_colisor_porta); 
+		//destruindo a porta
+		instance_destroy(obj_porta);
+	}
+}
+
 //sinalizando que o inimigo está vindo
 if (global.inimigo_spawn == true) { aviso_spawn = true }
 else { aviso_spawn = false }
-
-//perdendo ao colidir com os inimigos
-if (place_meeting(x, y, armadilhas)) { perdeu() }
