@@ -74,5 +74,3 @@ else { aviso_spawn = false }
 
 //perdendo ao colidir com os inimigos
 if (place_meeting(x, y, armadilhas)) { perdeu() }
-
-show_debug_message(global.perdeu)

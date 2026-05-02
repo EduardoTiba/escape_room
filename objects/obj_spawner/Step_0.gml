@@ -1,5 +1,5 @@
 //um pouco antes do inimigo surgir, essa variável será verdadeira para sinalizar seu spawn
-if (alarm[0] <= 120) { global.inimigo_spawn = true }
+if (alarm[0] <= 180) { global.inimigo_spawn = true }
 
 
 //show_debug_message(alarm[0]);
