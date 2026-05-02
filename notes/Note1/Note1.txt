@@ -17,3 +17,7 @@ O que fazer para os próximos dias
 01/05/26
 -Fazer a tela de seleção de levels;
 -Montar os levels;
+
+
+02/05/26
+-Desenhar a porta

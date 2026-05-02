@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_hide2",
-    "path":"sprites/spr_hide2/spr_hide2.yy",
+    "name":"spr_ativador",
+    "path":"sprites/spr_ativador/spr_ativador.yy",
   },
   "spriteMaskId":null,
   "visible":false,

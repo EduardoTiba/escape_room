@@ -71,3 +71,6 @@ else { global.perde_player = true }
 //sinalizando que o inimigo está vindo
 if (global.inimigo_spawn == true) { aviso_spawn = true }
 else{ aviso_spawn = false }
+
+//perdendo ao colidir com os inimigos
+if (place_meeting(x, y, armadilhas)) { global.perdeu = true }
