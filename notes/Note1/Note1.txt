@@ -15,3 +15,5 @@ O que fazer para os próximos dias
 -Fazer os blocos que ao tocar na parede, eles fazem seu movimento oposto;
 
 01/05/26
+-Fazer a tela de seleção de levels;
+-Montar os levels;
