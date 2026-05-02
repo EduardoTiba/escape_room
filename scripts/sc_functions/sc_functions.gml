@@ -18,5 +18,11 @@ if (image_alpha <= 0) { instance_destroy() }
 
 //Função após o inimigo colidir com o player
 function perdeu(){
-	alarm[0] = 50;
+	//A posse das chaves volta a ser false
+	global.chave1 = false;
+	global.chave2 = false;
+	global.chave3 = false;
+	
+	//Sinalizando que o jogador perdeu
+	global.perdeu = true;
 }
