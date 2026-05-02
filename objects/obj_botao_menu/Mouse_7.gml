@@ -5,4 +5,4 @@
 //isso amanhã
 
 //no momento vou só para a room teste
-room_goto(rm_partida01);
+room_goto(destino);

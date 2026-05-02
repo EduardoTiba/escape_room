@@ -9,7 +9,7 @@ draw_set_valign(1);
 draw_set_font(fnt_menu_botao);
 
 //escrevendo o texto
-draw_text(x, y, "Escolher level");
+draw_text(x, y, texto);
 
 //resentando os draw_set
 draw_set_valign(-1);
