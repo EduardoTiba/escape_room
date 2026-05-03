@@ -44,6 +44,7 @@
     {"name":"inst_6E3F45F5","path":"rooms/rm_partida01/rm_partida01.yy",},
     {"name":"inst_7A84625F","path":"rooms/rm_partida01/rm_partida01.yy",},
     {"name":"inst_437FA168","path":"rooms/rm_partida01/rm_partida01.yy",},
+    {"name":"inst_327613BE","path":"rooms/rm_partida01/rm_partida01.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -52,6 +53,7 @@
         {"$GMRInstance":"v4","%Name":"inst_58AEA70C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_58AEA70C","objectId":{"name":"obj_limite","path":"objects/obj_limite/obj_limite.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_limite","path":"objects/obj_limite/obj_limite.yy",},"propertyId":{"name":"destino","path":"objects/obj_limite/obj_limite.yy",},"resource":{"name":"rm_partida02","path":"rooms/rm_partida02/rm_partida02.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_partida02",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.484375,"x":-64.0,"y":252.0,},
+        {"$GMRInstance":"v4","%Name":"inst_327613BE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_327613BE","objectId":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":14.0,"y":22.0,},
       ],"layers":[],"name":"Inimigo","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"setinhas","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"setinhas","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Porta","depth":300,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
