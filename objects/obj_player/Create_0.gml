@@ -23,3 +23,5 @@ aviso_spawn = false;
 //pegando os controles no mobile
 virtual_key_add(40, 440, 75, 75, vk_left);
 virtual_key_add(280, 440, 75, 75, vk_right);
+virtual_key_add(170, 300, 75, 75, vk_up);
+virtual_key_add();
