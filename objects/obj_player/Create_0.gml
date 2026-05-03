@@ -19,3 +19,7 @@ armadilhas = [obj_bloco_mov_hor, obj_bloco_mov_ver, obj_espinho_direita, obj_esp
 
 //O monstro ainda não vai spawnar
 aviso_spawn = false;
+
+//pegando os controles no mobile
+virtual_key_add(40, 440, 75, 75, vk_left);
+virtual_key_add(280, 440, 75, 75, vk_right);

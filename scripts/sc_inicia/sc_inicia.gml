@@ -11,3 +11,6 @@ global.chave3 = false;
 
 //variável que checa se o player morrer
 global.perdeu = false;
+
+//checa se é mobile
+global.mobile = false;
