@@ -1,0 +1,20 @@
+{
+  "$GMPath":"",
+  "%Name":"path_inimigo1",
+  "closed":false,
+  "kind":0,
+  "name":"path_inimigo1",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":30.263878,"y":48.725876,},
+    {"speed":100.0,"x":538.0561,"y":55.21939,},
+    {"speed":100.0,"x":532.86127,"y":303.27136,},
+    {"speed":100.0,"x":-15.190666,"y":305.86877,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

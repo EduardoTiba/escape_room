@@ -29,6 +29,7 @@
   "physicsStartAwake":true,
   "properties":[
     {"$GMObjectProperty":"v2","%Name":"primeiro_spawn","filters":[],"listItems":[],"multiselect":false,"name":"primeiro_spawn","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"10","varType":1,},
+    {"$GMObjectProperty":"v2","%Name":"path","filters":[],"listItems":[],"multiselect":false,"name":"path","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"path_inimigo1","path":"paths/path_inimigo1/path_inimigo1.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"path_inimigo1","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

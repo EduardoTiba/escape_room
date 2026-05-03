@@ -71,14 +71,15 @@ else { global.perde_player = true }
 if (place_meeting(x, y, armadilhas)) { perdeu() }
 
 //destruindo a porta se as tres chaves forem coletadas
-if (global.chave1 == true and global.chave2 == true and global.chave3 == true)
+
+if (distance_to_object(obj_colisor_porta)) <= 40
 {
-	if (place_meeting(x, y, obj_colisor_porta)) 
+	if (global.chave1 == true and global.chave2 == true and global.chave3 == true)
 	{
-		//destruindo o colisor
-		instance_destroy(obj_colisor_porta); 
+		//destrói o colisor
+		instance_destroy(obj_colisor_porta);
 		//destruindo a porta
-		instance_destroy(obj_porta);
+		instance_destroy(obj_porta);	
 	}
 }
 

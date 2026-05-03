@@ -20,4 +20,6 @@ O que fazer para os próximos dias
 
 
 02/05/26
--Desenhar a porta
+-Fazer a tela de seleção do levels;
+-Terminar o terceiro level;
+fazer a versão mobile (se quiser, lembre-se que é so um pequeno jogo);
