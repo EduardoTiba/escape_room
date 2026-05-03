@@ -94,6 +94,7 @@
     {"id":{"name":"spr_ativador1","path":"sprites/spr_ativador1/spr_ativador1.yy",},},
     {"id":{"name":"spr_bloco_mov_hor","path":"sprites/spr_bloco_mov_hor/spr_bloco_mov_hor.yy",},},
     {"id":{"name":"spr_bloco_mov_ver","path":"sprites/spr_bloco_mov_ver/spr_bloco_mov_ver.yy",},},
+    {"id":{"name":"spr_botao_corre","path":"sprites/spr_botao_corre/spr_botao_corre.yy",},},
     {"id":{"name":"spr_botao_inicio","path":"sprites/spr_botao_inicio/spr_botao_inicio.yy",},},
     {"id":{"name":"spr_botao","path":"sprites/spr_botao/spr_botao.yy",},},
     {"id":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},},

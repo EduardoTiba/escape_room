@@ -5,6 +5,12 @@ window_set_size(1280, 700);
 vel = 1;
 hsp = 0;
 vsp = 0;
+//pegando os inputs
+right	= keyboard_check(ord("D")) or keyboard_check(vk_right);
+left	= keyboard_check(ord("A")) or keyboard_check(vk_left);
+down	= keyboard_check(ord("S")) or keyboard_check(vk_down);
+up		= keyboard_check(ord("W")) or keyboard_check(vk_up);
+corre	= keyboard_check(vk_anykey) and (keyboard_check(vk_shift));
 
 //Array para animações
 anim_vel	= 5;
@@ -27,3 +33,4 @@ virtual_key_add(40, 440, 75, 75, vk_left);
 virtual_key_add(280, 440, 75, 75, vk_right);
 virtual_key_add(170, 300, 75, 75, vk_up);
 virtual_key_add(170, 560, 75, 75, vk_down);
+virtual_key_add(980, 320, 100, 100, vk_shift);
