@@ -33,4 +33,4 @@ virtual_key_add(40, 440, 75, 75, vk_left);
 virtual_key_add(280, 440, 75, 75, vk_right);
 virtual_key_add(170, 300, 75, 75, vk_up);
 virtual_key_add(170, 560, 75, 75, vk_down);
-virtual_key_add(980, 320, 100, 100, vk_shift);
+virtual_key_add(1000, 320, 120, 120, vk_shift);
