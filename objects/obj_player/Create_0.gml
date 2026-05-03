@@ -25,12 +25,3 @@ armadilhas = [obj_bloco_mov_hor, obj_bloco_mov_ver, obj_espinho_direita, obj_esp
 
 //O monstro ainda não vai spawnar
 aviso_spawn = false;
-
-if (global.mobile == false) { exit }
-
-//pegando os controles no mobile se o modo for do mobile
-virtual_key_add(40, 440, 75, 75, vk_left);
-virtual_key_add(280, 440, 75, 75, vk_right);
-virtual_key_add(170, 300, 75, 75, vk_up);
-virtual_key_add(170, 560, 75, 75, vk_down);
-virtual_key_add(1000, 320, 120, 120, vk_shift);

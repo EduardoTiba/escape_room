@@ -23,3 +23,7 @@ O que fazer para os próximos dias
 -Fazer a tela de seleção do levels;
 -Terminar o terceiro level;
 fazer a versão mobile (se quiser, lembre-se que é so um pequeno jogo);
+
+03/05/26
+-Terminar level 3;
+-Fazer tela final/créditos;
