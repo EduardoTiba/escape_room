@@ -30,6 +30,7 @@
   "properties":[
     {"$GMObjectProperty":"v2","%Name":"destino","filters":[],"listItems":[],"multiselect":false,"name":"destino","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_partida01","path":"rooms/rm_partida01/rm_partida01.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_partida01","varType":5,},
     {"$GMObjectProperty":"v2","%Name":"texto","filters":[],"listItems":[],"multiselect":false,"name":"texto","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Escolher level","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"cor","filters":[],"listItems":[],"multiselect":false,"name":"cor","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"$FF1BB7B4","varType":7,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
