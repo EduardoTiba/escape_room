@@ -86,3 +86,9 @@ if (distance_to_object(obj_colisor_porta)) <= 40
 //sinalizando que o inimigo está vindo
 if (global.inimigo_spawn == true) { aviso_spawn = true }
 else { aviso_spawn = false }
+
+//resetando a fase se o player clicar em R
+if (keyboard_check(ord("R"))) { room_restart() }
+
+
+

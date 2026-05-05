@@ -18,7 +18,6 @@ O que fazer para os próximos dias
 -Fazer a tela de seleção de levels;
 -Montar os levels;
 
-
 02/05/26
 -Fazer a tela de seleção do levels;
 -Terminar o terceiro level;
@@ -27,3 +26,7 @@ fazer a versão mobile (se quiser, lembre-se que é so um pequeno jogo);
 03/05/26
 -Terminar level 3;
 -Fazer tela final/créditos;
+
+04/05/26
+-Fazer tela de créditos;
+-Programar bloco que se move igual aos espinhos

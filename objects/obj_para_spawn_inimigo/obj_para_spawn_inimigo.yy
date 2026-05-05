@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_parede",
-  "eventList":[],
+  "%Name":"obj_para_spawn_inimigo",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_parede",
+  "name":"obj_para_spawn_inimigo",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Agentes",
+    "path":"folders/Objects/Agentes.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,9 +30,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_parede",
-    "path":"sprites/spr_parede/spr_parede.yy",
+    "name":"spr_botao_inicio",
+    "path":"sprites/spr_botao_inicio/spr_botao_inicio.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

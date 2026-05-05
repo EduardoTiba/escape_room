@@ -7,5 +7,5 @@ if (image_alpha <= 0)
 {
 	global.inimigo_spawn = false;
 	global.perdeu = false;
-	room_goto(rm_menu);
+	room_goto(rm_selecao);
 }

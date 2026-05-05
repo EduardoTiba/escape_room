@@ -65,6 +65,7 @@
     {"id":{"name":"obj_hide","path":"objects/obj_hide/obj_hide.yy",},},
     {"id":{"name":"obj_inimigo","path":"objects/obj_inimigo/obj_inimigo.yy",},},
     {"id":{"name":"obj_limite","path":"objects/obj_limite/obj_limite.yy",},},
+    {"id":{"name":"obj_para_spawn_inimigo","path":"objects/obj_para_spawn_inimigo/obj_para_spawn_inimigo.yy",},},
     {"id":{"name":"obj_parede_fundo","path":"objects/obj_parede_fundo/obj_parede_fundo.yy",},},
     {"id":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
@@ -128,8 +129,8 @@
     {"roomId":{"name":"rm_partida01","path":"rooms/rm_partida01/rm_partida01.yy",},},
     {"roomId":{"name":"rm_partida02","path":"rooms/rm_partida02/rm_partida02.yy",},},
     {"roomId":{"name":"rm_instrucoes_inimigo","path":"rooms/rm_instrucoes_inimigo/rm_instrucoes_inimigo.yy",},},
-    {"roomId":{"name":"rm_partida03","path":"rooms/rm_partida03/rm_partida03.yy",},},
     {"roomId":{"name":"rm_selecao","path":"rooms/rm_selecao/rm_selecao.yy",},},
+    {"roomId":{"name":"rm_partida03","path":"rooms/rm_partida03/rm_partida03.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
