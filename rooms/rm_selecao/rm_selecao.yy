@@ -9,6 +9,7 @@
     {"name":"inst_5B607999_2","path":"rooms/rm_selecao/rm_selecao.yy",},
     {"name":"inst_38A54655","path":"rooms/rm_selecao/rm_selecao.yy",},
     {"name":"inst_75215609","path":"rooms/rm_selecao/rm_selecao.yy",},
+    {"name":"inst_53F2FAD0","path":"rooms/rm_selecao/rm_selecao.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -34,6 +35,7 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_botao_menu","path":"objects/obj_botao_menu/obj_botao_menu.yy",},"propertyId":{"name":"texto","path":"objects/obj_botao_menu/obj_botao_menu.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Level 3",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_botao_menu","path":"objects/obj_botao_menu/obj_botao_menu.yy",},"propertyId":{"name":"cor","path":"objects/obj_botao_menu/obj_botao_menu.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"$FF5132FF",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0666666,"scaleY":1.5,"x":608.0,"y":512.0,},
+        {"$GMRInstance":"v4","%Name":"inst_53F2FAD0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_53F2FAD0","objectId":{"name":"obj_setinha","path":"objects/obj_setinha/obj_setinha.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":45.0,"y":47.0,},
       ],"layers":[],"name":"Botao","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":0.0,"animationSpeedType":0,"colour":4294967295,"depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],
