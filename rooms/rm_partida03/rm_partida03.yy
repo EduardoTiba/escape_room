@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"rm_partida03",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rm_partida03/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
@@ -67,7 +67,7 @@
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Inimigo","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_58AEA70C1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_58AEA70C1_1","objectId":{"name":"obj_limite","path":"objects/obj_limite/obj_limite.yy",},"properties":[
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_limite","path":"objects/obj_limite/obj_limite.yy",},"propertyId":{"name":"destino","path":"objects/obj_limite/obj_limite.yy",},"resource":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_creditos",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_limite","path":"objects/obj_limite/obj_limite.yy",},"propertyId":{"name":"destino","path":"objects/obj_limite/obj_limite.yy",},"resource":{"name":"rm_partida03","path":"rooms/rm_partida03/rm_partida03.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_partida03",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.25,"scaleY":1.484375,"x":640.0,"y":-95.0,},
       ],"layers":[],"name":"Inimigo","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Porta","depth":100,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
