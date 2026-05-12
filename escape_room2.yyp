@@ -112,6 +112,7 @@
     {"id":{"name":"spr_guy_up_static","path":"sprites/spr_guy_up_static/spr_guy_up_static.yy",},},
     {"id":{"name":"spr_guy_up","path":"sprites/spr_guy_up/spr_guy_up.yy",},},
     {"id":{"name":"spr_hide","path":"sprites/spr_hide/spr_hide.yy",},},
+    {"id":{"name":"spr_imagem_promocional","path":"sprites/spr_imagem_promocional/spr_imagem_promocional.yy",},},
     {"id":{"name":"spr_inimigo","path":"sprites/spr_inimigo/spr_inimigo.yy",},},
     {"id":{"name":"spr_level","path":"sprites/spr_level/spr_level.yy",},},
     {"id":{"name":"spr_limite","path":"sprites/spr_limite/spr_limite.yy",},},

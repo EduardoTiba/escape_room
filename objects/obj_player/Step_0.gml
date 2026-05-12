@@ -89,6 +89,3 @@ else { aviso_spawn = false }
 
 //resetando a fase se o player clicar em R
 if (keyboard_check(ord("R"))) { room_restart() }
-
-
-
