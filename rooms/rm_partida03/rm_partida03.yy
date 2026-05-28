@@ -15,7 +15,6 @@
     {"name":"inst_56C8ACA7_1","path":"rooms/rm_partida03/rm_partida03.yy",},
     {"name":"inst_6EF4A3D7","path":"rooms/rm_partida03/rm_partida03.yy",},
     {"name":"inst_ADDA6A6","path":"rooms/rm_partida03/rm_partida03.yy",},
-    {"name":"inst_6EBAA1C3","path":"rooms/rm_partida03/rm_partida03.yy",},
     {"name":"inst_29CB6D36","path":"rooms/rm_partida03/rm_partida03.yy",},
     {"name":"inst_2291AC4B","path":"rooms/rm_partida03/rm_partida03.yy",},
     {"name":"inst_1CED8F72","path":"rooms/rm_partida03/rm_partida03.yy",},
@@ -67,7 +66,7 @@
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Inimigo","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_58AEA70C1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_58AEA70C1_1","objectId":{"name":"obj_limite","path":"objects/obj_limite/obj_limite.yy",},"properties":[
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_limite","path":"objects/obj_limite/obj_limite.yy",},"propertyId":{"name":"destino","path":"objects/obj_limite/obj_limite.yy",},"resource":{"name":"rm_partida03","path":"rooms/rm_partida03/rm_partida03.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_partida03",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_limite","path":"objects/obj_limite/obj_limite.yy",},"propertyId":{"name":"destino","path":"objects/obj_limite/obj_limite.yy",},"resource":{"name":"rm_selecao","path":"rooms/rm_selecao/rm_selecao.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_selecao",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.25,"scaleY":1.484375,"x":640.0,"y":-95.0,},
       ],"layers":[],"name":"Inimigo","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Porta","depth":100,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
@@ -93,7 +92,6 @@
         {"$GMRInstance":"v4","%Name":"inst_ADDA6A6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_ADDA6A6","objectId":{"name":"obj_salvador","path":"objects/obj_salvador/obj_salvador.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_salvador","path":"objects/obj_salvador/obj_salvador.yy",},"propertyId":{"name":"push_x","path":"objects/obj_salvador/obj_salvador.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.296875,"scaleY":6.5625,"x":-3.0,"y":0.0,},
-        {"$GMRInstance":"v4","%Name":"inst_6EBAA1C3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6EBAA1C3","objectId":{"name":"obj_salvador","path":"objects/obj_salvador/obj_salvador.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-459.0,"y":208.0,},
         {"$GMRInstance":"v4","%Name":"inst_29CB6D36","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_29CB6D36","objectId":{"name":"obj_salvador","path":"objects/obj_salvador/obj_salvador.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_salvador","path":"objects/obj_salvador/obj_salvador.yy",},"propertyId":{"name":"push_y","path":"objects/obj_salvador/obj_salvador.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"-1",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":11.0,"scaleY":0.15625012,"x":16.0,"y":410.0,},
