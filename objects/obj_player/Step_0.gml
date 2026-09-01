@@ -14,6 +14,8 @@ var _corre	= keyboard_check(vk_anykey) and (keyboard_check(vk_shift));
 //valores da velocidade
 hsp = (_right - _left) * vel;
 vsp = (_down - _up) * vel;
+//código de movimentação e colisão
+move_and_collide(hsp, vsp, colisores);
 
 //correndo
 if (_corre == true) { vel = 2 }

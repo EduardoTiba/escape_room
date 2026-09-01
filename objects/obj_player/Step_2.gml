@@ -1,5 +1,5 @@
-//código de movimentação e colisão
-move_and_collide(hsp, vsp, colisores);
+////código de movimentação e colisão
+//move_and_collide(hsp, vsp, colisores);
 
 //Se o alpha for 0 então o jogador é direcionado para a tela de gameover, e 
 //sua variável perdeu volta a ser false
